@@ -16,6 +16,7 @@
     "hbs": "^4.2.0",
     "jquery": "^3.7.1",
     "mongoose": "^8.4.4",
-    "validator": "^13.12.0"
+    "validator": "^13.12.0",
+    "vercel": "^34.3.0"
   }
 }
