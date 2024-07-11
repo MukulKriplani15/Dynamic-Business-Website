@@ -29,7 +29,7 @@ app.get('/', (req, res) => {
     res.render('index');
     })
 
-app.post('/contact', async(req, res) => {
+app.post("/contact", async(req, res) => {
 try{
 
     // res.send(req.body);
